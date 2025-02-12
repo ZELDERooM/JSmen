@@ -31,3 +31,6 @@ var text = (`name - ${userName1}
 
 console.log(text)
 
+document.writeln("<br> тип userName1: " + typeof userName1);
+document.writeln("<br> тип userAge1: " + typeof userAge1);
+
