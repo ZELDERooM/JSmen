@@ -63,9 +63,21 @@ document.write(`parseInt(num1) = ${num2}`);
 
 num1 = "1q2w3e4r";
 num2 = parseInt(num1);
-document.write
-
-
-
 
 document.write("<p></p>")
+
+
+// +var -var
+document.write("<h3> +var -var </h3>");
+document.write("<p></p>");
+num1 = "56";
+num2 = 4;
+result = +num1 + num2;
+document.write(`+56 + 4 = ${result}<br>`);
+
+result = -num1 + num2;
+document.write(`-56 + 4 = ${result}<br>`);
+
+document.write("<p></p>")
+
+// 
