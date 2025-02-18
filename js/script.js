@@ -80,4 +80,6 @@ document.write(`-56 + 4 = ${result}<br>`);
 
 document.write("<p></p>")
 
+document.write("F*CK")
+
 // 
